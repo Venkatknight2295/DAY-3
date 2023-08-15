@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-barlow: Barlow;
+  
+    /* Colors */
+    --color-gray: rgba(125, 125, 125, 0.15);
+  }
+  
